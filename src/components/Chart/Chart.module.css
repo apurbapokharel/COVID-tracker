@@ -1,0 +1,14 @@
+.mainContainer{
+  display: block;
+  width: 75%;
+}
+
+.container {
+    justify-content: center;
+  }
+  
+  @media only screen and (max-width: 770px) {
+    .container {
+      width: 100%;
+    }
+  }
